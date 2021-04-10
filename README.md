@@ -20,3 +20,7 @@ I have compared the model performances in section 1,2,3 based on
 1. Classification report
 2. Confusion Matrix
 3. GradCAM(Gradientweighted Class Activation Map)
+
+Future work:
+
+Using [Capsule Network](https://arxiv.org/pdf/1710.09829) to test the dataset.
