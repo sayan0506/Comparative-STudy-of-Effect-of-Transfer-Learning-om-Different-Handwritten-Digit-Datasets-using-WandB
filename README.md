@@ -14,3 +14,9 @@ The training report log:
 I have saved all the necessary weights and model json files in google drive link
 
 [Model Drive Link](https://drive.google.com/drive/u/0/folders/10iaQeAecoaPE508WevrnPFPrukOpvryj)
+
+I have compared the model performances in section 1,2,3 based on
+
+1. Classification report
+2. Confusion Matrix
+3. GradCAM(Gradientweighted Class Activation Map)
