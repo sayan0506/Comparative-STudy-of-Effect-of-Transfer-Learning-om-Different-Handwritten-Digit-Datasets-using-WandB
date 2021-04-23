@@ -24,3 +24,7 @@ I have compared the model performances in section 1,2,3 based on
 Future work:
 
 Using [Capsule Network](https://arxiv.org/pdf/1710.09829) to test the dataset.
+
+## Reference
+
+* [How to Save and Load Your Keras Deep Learning Model](https://machinelearningmastery.com/save-load-keras-deep-learning-models/)
