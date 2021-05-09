@@ -1,4 +1,5 @@
-# Task-2-Internship
+# Comparative Syudy Between Different Handwritten Digit Datasets using transfer Learning, and Learning from Scratch
+
 MIDAS IITD internship task
 
 Collab Notebook link: [Task 2 notebbok](https://github.com/sayan0506/Task-2-Internship/blob/main/IIITD_assignment_task_2_test_script.ipynb)
