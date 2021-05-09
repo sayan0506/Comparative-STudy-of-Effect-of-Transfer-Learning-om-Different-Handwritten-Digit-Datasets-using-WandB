@@ -1,4 +1,4 @@
-# Comparative Syudy Between Different Handwritten Digit Datasets using transfer Learning, and Learning from Scratch
+# Comparative Study Between Different Handwritten Digit Datasets using transfer Learning, and Learning from Scratch
 
 MIDAS IITD internship task
 
